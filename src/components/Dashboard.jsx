@@ -39,7 +39,7 @@ const Home = () => {
               <h3>Password Reset Application</h3>
             </div>
             <div className="card-body text-center border-top">
-              <div className="card-text mb-3">Welcome Home!</div>
+              <div className="card-text mb-3">Welcome to vivek kumar panneer selvam web page</div>
               <button
                 type="button"
                 onClick={handleLogout}
